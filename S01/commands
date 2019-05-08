@@ -1,0 +1,41 @@
+echo
+pwd
+ls
+cd
+cd .
+cd ..
+mv
+mkdir
+touch
+cp -r 
+rm -r
+su
+sudo 
+reboot
+
+less
+head
+tail
+
+
+ctrl+r
+
+history
+history | tail -4
+history | grep alias
+
+apt-get update
+apt-get install firefox
+apt-get remove firefox
+
+wildcards
+*
+?
+
+find . -(i)name ""  -type d -size +100M 
+> >>
+chmod
+script
+
+
+

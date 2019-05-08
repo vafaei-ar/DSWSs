@@ -1,0 +1,177 @@
+echo
+comment out
+tab completion
+Escape sequence 
+echo -e
+echo \; bye
+\ line break
+;
+
+
+ls
+cp 
+mv
+rm
+cd 
+mkdir
+rmdir 
+su
+reboot
+pwd
+touch
+cat
+less
+head
+tail
+grep
+diff
+du
+free
+date
+top
+kill
+whoami
+passwd
+
+
+ctrl+r 
+ctrl+l
+
+
+apt-get install bzr
+apt-get remove bzr
+apt-get upgrade
+apt-get autoremove
+
+
+ls /proc/
+cat /proc/cpuinfo 
+/proc/sys/fs# cat file-max 
+/dev# ls /dev/sda*
+lsmod, lsusb, lspci
+rmmod iwlwifi, modprobe iwlwifi
+
+init:
+runlevel
+telinit 5 
+
+shutdown -r 60 Reloading updated kernel 
+wall salam
+
+.bashrc
+.profile
+.bash_logout
+
+
+&&
+||
+
+bash 
+exit
+
+$USER
+$HOME
+$PWD
+$SHELL
+$$
+$?
+${}
+$0
+
+export manam=alireza
+manam=alireza
+export manam
+unset 
+
+
+uname -a
+history
+!!
+!ls
+!?DD?
+
+
+
+
+$HISTFILE
+$HISTSIZE
+
+
+$PATH
+which 
+
+relative and absolute path
+mybin
+
+man
+
+: | & ; ( ) < >*
+There is also control operators. They also have special meanings: || && & ; ;; | ( )
+
+sort
+wc
+redirection > >>
+cat -n
+split -l3 -d output
+head
+tail
+less
+nl
+uniq -c -u -d
+cut -f1 -d" "
+cut -c 2,3
+paste
+join
+sed 's/q/d' file
+
+
+
+ls -ltrh
+cp and man
+mkdir -p
+rm
+
+
+wildcards
+*
+?
+[ab]
+[!a]
+
+touch
+
+find . -(i)name ""  -type d -size +100M 
+-(acm)time or min
+-exec command "{}" \;
+
+dd if=/dev/random of=test bs=100M count=1
+
+alias ls="ls -lthr"
+
+stearms
+> >>
+1> 2> 
+&>
+heredoc
+command<<END
+text
+END
+|
+
+xargs --max-args -I INPUT
+
+ls | tee output
+
+$1
+
+chown
+chgrp 
+chmod
+
+
+
+
+
+
+
+
