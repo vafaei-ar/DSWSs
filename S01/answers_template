@@ -1,0 +1,39 @@
+#email_subject: EX-S01-alireza-vafaeisadr
+
+import numpy as np
+
+x = np.random.normal(0,1)
+y = np.random.normal(0,1)
+
+z = x+y
+
+
+##########
+
+
+echo $PWD
+
+
+##########
+
+
+ls is a command that you can suse 
+
+
+##########
+tamrin 4
+
+##########
+
+
+علیرضا وفایی صدر
+
+
+
+
+
+
+
+
+
+
