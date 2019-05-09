@@ -18,7 +18,8 @@ Important for attendees:
     
     * Put your name in Persian at the end of the document.
     
-    * Email subject should be like EX-S{session-number}-{you-first-name-in-English}-{your-last-name-in-English} where {session-number} could be 01,02,03,...30
+    * Email subject should be like EX-S{session-number}-{you-first-name-in-English}-{your-last-name-in-English} 
+        where {session-number} could be 01,02,03,...30
 
 ### The requirements
 
