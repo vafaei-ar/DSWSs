@@ -10,7 +10,7 @@ Important for attendees:
 
   2. **Exercises** need to be emailed to <datascienceworkshops98@gmail.com>
    You can find the exercises for each **session**[^1] in this repository. The exercises will be checked automatically so you need to follow following instructions (see the [template](./S01/answers_template)):<br/><br/><br/>
-    A. Put your answers (only answers, either an explanation or a piece of code) in a [document](https://linoxide.com/linux-how-to/learn-how-create-file-linux-terminal/)<br/><br/>
+    A. Put your answers (only answers, either an explanation or a piece of code) in a [document](https://linoxide.com/linux-how-to/learn-how-create-file-linux-terminal/).<br/><br/>
     B. The answers should be separated by 10 [hash sign](https://en.wikipedia.org/wiki/Number_sign) (##########). 
         You don't need to put it at the beginning and the end of the document.<br/><br/>
     C. Put your name in Persian at the end of the document.<br/><br/>
