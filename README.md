@@ -1,6 +1,6 @@
 # DSWSs repository
 
-This repository contains course material of the data science workshop series that began in IPM. You can find more information [HERE](http://physics.ipm.ac.ir/~vafaei/ "VafaeiSadr's website").
+This repository contains course material (presentations, codes, exercises) of the data science workshop series that began in IPM. You can find more information [HERE](http://physics.ipm.ac.ir/~vafaei/ "VafaeiSadr's website").
 
 The workshops will be shared on [Aparat](https://www.aparat.com/datasience) and [Youtube](https://www.youtube.com/channel/UC2ppE4804cJoCULRIgZo3VA)
 
@@ -9,17 +9,17 @@ Important for attendees:
   1. **Registration** link will be updated for each workshop. You can find it on my [website](http://physics.ipm.ac.ir/~vafaei/ "VafaeiSadr's website")..
 
   2. **Exercises** need to be emailed to <datascienceworkshops98@gmail.com>
-   The exercises will be checked automatically so you need to follow following instructions (see the [template](./S01/answers_template)):
+   You can find the exercises for each [session]("Each workshop is one session") in this repository. The exercises will be checked automatically so you need to follow following instructions (see the [template](./S01/answers_template)):
    
     * Put your answers (only answers, either an explanation or a piece of code) in a [document](https://linoxide.com/linux-how-to/learn-how-create-file-linux-terminal/)
     
     * The answers should be separated by 10 [hash sign](https://en.wikipedia.org/wiki/Number_sign) (##########). 
-    You don't need to put it at the beginning and the end of the document.
+        You don't need to put it at the beginning and the end of the document.
     
     * Put your name in Persian at the end of the document.
     
     * Email subject should be like EX-S{session-number}-{you-first-name-in-English}-{your-last-name-in-English} 
-        where {session-number} could be 01,02,03,...30
+        where {session-number} could be 01,02,03,...30 regarding to the session number.
 
 ### The requirements
 
