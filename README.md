@@ -3,7 +3,7 @@
 This repository contains course material (presentations, codes, exercises) of the data science workshop series that began in IPM. You can find more information [HERE](http://physics.ipm.ac.ir/~vafaei/ "VafaeiSadr's website").
 
 The workshops will be shared on [Aparat](https://www.aparat.com/datasience) and [Youtube](https://www.youtube.com/channel/UC2ppE4804cJoCULRIgZo3VA)
-[Aparat]: https://img.icons8.com/color/48/000000/aparat.png "Aparat"
+
 Important for attendees:
 
   1. **Registration** link will be updated for each workshop. You can find it on my [website](http://physics.ipm.ac.ir/~vafaei/ "VafaeiSadr's website")..
@@ -16,7 +16,7 @@ Important for attendees:
         C. Put your name in Persian at the end of the document.<br/><br/>
         D. Email subject should be like EX-S{session-number}-{you-first-name-in-English}-{your-last-name-in-English} 
             where {session-number} could be 01,02,03,...30 regarding to the session number.<br/>
-        E. The deadline for submittion is the <span style="color:red">next *Sunday* 12:00 pm.</span>
+        E. The deadline for submittion is the next **Sunday** 12:00 pm.
             
 
 ### The requirements
