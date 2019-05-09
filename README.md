@@ -9,9 +9,10 @@ Important for attendees:
   1. **Registration** link will be updated for each workshop. You can find it on my [website](http://physics.ipm.ac.ir/~vafaei/ "VafaeiSadr's website")..
 
   2. **Exercises** need to be emailed to <datascienceworkshops98@gmail.com>
-   The exercises will be checked automatically so you need to follow following instructions:
+   The exercises will be checked automatically so you need to follow following instructions (see the [template](./S01/answers_template)):
     * Put your answers (only answers, either an explanation or a piece of code) in a [document](https://linoxide.com/linux-how-to/learn-how-create-file-linux-terminal/)
     * The answers should be separated by 10 [hash sign](https://en.wikipedia.org/wiki/Number_sign) (##########). 
+    You don't need to put it at the beginning and the end of the document.
 
 ### The requirements
 
