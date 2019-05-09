@@ -16,6 +16,8 @@ Important for attendees:
         C. Put your name in Persian at the end of the document.<br/><br/>
         D. Email subject should be like EX-S{session-number}-{you-first-name-in-English}-{your-last-name-in-English} 
             where {session-number} could be 01,02,03,...30 regarding to the session number.<br/>
+        E. The deadline for submittion is the next Sunday 12:00 pm.
+            
 
 ### The requirements
 
