@@ -1,12 +1,12 @@
-Design a command that can count number of files beginning with 'a' in a directory.
+1. Design a command that can count number of files beginning with 'a' in a directory.
 
-Design a command that count number of users who has home (except root).
+2. Design a command that count number of users who has home (except root).
 
-Design a command that produce 100 files. You need to name the files like: file1, file2, ..., file100
+3. Design a command that produce 100 files. You need to name the files like: file1, file2, ..., file100
 
-Using files from prevoius question, Design a command that make a directory named 'newdir' and copy only files 1 to 9 into the 'newdir'.
+4. Using files from prevoius question, Design a command that make a directory named 'newdir' and copy only files 1 to 9 into the 'newdir'.
 
-Design a command that returns the name of latest updated file in a directory.
+5. Design a command that returns the name of latest updated file in a directory.
 
 
  
