@@ -14,8 +14,8 @@ Important for attendees:
         B. The answers should be separated by 10 [hash sign](https://en.wikipedia.org/wiki/Number_sign) (##########). 
             You don't need to put it at the beginning and the end of the document.<br/><br/>
         C. Put your name in Persian at the end of the document.<br/><br/>
-        D. Email subject should be like EX-S{session-number}-{you-first-name-in-English}-{your-last-name-in-English} 
-            where {session-number} could be 01,02,03,...30 regarding to the session number.<br/>
+        D. Email subject should be like EX-S{SessionNumber}-{YourFirstNameInEnglish}-{YourLastNameInEnglish} (example: EX-S02-AliReza-VafaeiSadr)
+            where {session-number} could be 01,02,03,...30 regarding to the session number. (please notice, only three hyphen!)<br/>
         E. Please send the email within a new composition (not reply to an email or etc).<br/>
         F. The deadline for submittion is the next **Sunday** 12:00 pm.
             
