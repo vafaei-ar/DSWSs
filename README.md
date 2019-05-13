@@ -18,7 +18,7 @@ Important for attendees:
            where {SessionNumber} could be 01,02,03,...30 regarding to the session number. (please notice it, only three hyphen!)<br/>
            example: EX-S02-AliReza-VafaeiSadr<br/><br/>
         E. Please send the email within a new composition (not reply to an email or etc).<br/><br/>
-        F. The deadline for submittion is the next **Sunday** 12:00 pm.
+        F. The deadline for submittion is the next **Sunday** 23:59:59.
            
 
 ### The requirements
