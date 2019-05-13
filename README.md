@@ -16,8 +16,8 @@ Important for attendees:
         C. Put your name in Persian at the end of the document.<br/><br/>
         D. Email subject should be like EX-S{SessionNumber}-{YourFirstNameInEnglish}-{YourLastNameInEnglish} <br/>
            where {SessionNumber} could be 01,02,03,...30 regarding to the session number. (please notice, only three hyphen!)<br/>
-           example: EX-S02-AliReza-VafaeiSadr
-        E. Please send the email within a new composition (not reply to an email or etc).<br/>
+           example: EX-S02-AliReza-VafaeiSadr<br/><br/>
+        E. Please send the email within a new composition (not reply to an email or etc).<br/><br/>
         F. The deadline for submittion is the next **Sunday** 12:00 pm.
            
 
