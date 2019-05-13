@@ -1,0 +1,134 @@
+
++
+-
+*
+/
+**
+//
+%
+
+a,b = 1,2
+
+int
+float
+list
+list[1:3]
+list[-1]
+
+for i in [1,2,3]:
+    print(i)
+    
+list methods:
+append
+clear
+insert
+pop
+reverse
+
+def echo(i):
+    print(i)
+   
+for i in range(10):
+    echo(i)
+    
+if 3>2:
+    print('Hello!')
+    
+==
+>
+<
+<=
+>=
+1 < x < 3
+and
+or
+
+    
+for i in range(10):
+    if i%2==0:
+        continue
+    echo(i)
+
+n = 0
+while n<10:
+    print(i)
+    n += 1
+
+
+
+import something as st
+from something import echo as ech
+
+str
+
+string methods:
+
+capitalize
+count
+endswith
+find
+index
+join
+lower
+replace
+split
+startswith
+upper
+zfill
+
+
+f = open("demofile.txt", "r")
+for x in f:
+  print(x) 
+  
+f = open("demofile3.txt", "w")
+f.write("Woops! I have deleted the content!")
+f.close()
+  
+f = open("demofile2.txt", "a")
+f.write("Now the file has more content!")
+f.close()
+
+
+print('{} {}'.format('one', 'two'))
+'{:10}'.format('test')
+'{:>10}'.format('test')
+'{:_>10}'.format('test')
+'{:d}'.format(42)
+'{:4d}'.format(42)
+
+'{:f}'.format(42)
+'{:06.2f}'.format(3.141592653589793)
+
+pyformat.com
+
+
+import time
+import datetime
+
+x = datetime.datetime.now()
+print(x) 
+
+try:
+    do 1
+except:
+    do 2
+
+dic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
