@@ -90,6 +90,25 @@ f.write("Now the file has more content!")
 f.close()
 
 
+import sys
+sys.modules.keys()
+sys.path
+sys.exit(1)
+
+
+
+
+import os
+os.getcwd
+os.listdir
+os.mkdir
+os.chdir
+os.rename
+os.path.exists
+os.path.isdir
+os.path.isfile
+
+
 print('{} {}'.format('one', 'two'))
 '{:10}'.format('test')
 '{:>10}'.format('test')
