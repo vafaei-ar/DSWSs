@@ -13,7 +13,7 @@ examiner = Examiner(0)
 
 ref_num0,serie_num,topic = examiner.get_params()
 
-service,msgprops,pesinfo,succeed = fetch_them(prex='XX',
+service,msgprops,pesinfo,succeed = fetch_them(prex='E',
                                       sess_num=1,
                                       prefix=prefixex,
                                       trace=0)

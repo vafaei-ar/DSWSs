@@ -9,11 +9,25 @@
 
 a,b = 1,2
 
+integer,float,string,list,touple,dic,bool,set
+
 int
+
+type
+
 float
 list
 list[1:3]
 list[-1]
+x[3:-2]
+
+x*2
+
+[<begin>:<end>:<step>]
+
+x[::-1]
+
+Script?
 
 for i in [1,2,3]:
     print(i)
@@ -35,6 +49,7 @@ if 3>2:
     print('Hello!')
     
 ==
+!=
 >
 <
 <=
@@ -55,6 +70,8 @@ while n<10:
     n += 1
 
 
+
+pip install numpy
 
 import something as st
 from something import echo as ech
@@ -91,12 +108,10 @@ f.close()
 
 
 import sys
+sys.argv
 sys.modules.keys()
 sys.path
 sys.exit(1)
-
-
-
 
 import os
 os.getcwd
@@ -104,7 +119,7 @@ os.listdir
 os.mkdir
 os.chdir
 os.rename
-os.path.exists
+os.path.exists()
 os.path.isdir
 os.path.isfile
 
