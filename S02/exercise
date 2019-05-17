@@ -1,6 +1,7 @@
 1. Write a function which returns factorial function of a number while its input is the number.
 
-2. Write a function which checks if a number is prime. The function takes a number from user
+2. Write a function which checks if a number is prime. The function takes a number from user, true means 
+prime while false means otherwise. 
 
 3. Write a function which returns all words started with a specific letter (for example a) and ended with 
 another specific letter from a given text file. The input will be the file name. The function should take 
