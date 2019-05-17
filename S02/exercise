@@ -11,3 +11,11 @@ the file name and make a list of the words.
  file name and the output should be the new (world replaced) string.
 
 **THE INPUT NEEDS TO BE PASSED BY sys.argv FUNCTION IN ALL QUESTIONS.**
+
+
+Some more exercises:
+
+- Write a function which returns Fibonacci Sequence.
+- Hangman, write a function that chooses a word from a list and lets the user guess it.
+- Rock, Paper, Scissors Game.
+- Try to make a progress bar that gets complete in in a given period of time.
