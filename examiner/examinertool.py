@@ -21,7 +21,7 @@ class Examiner(object):
         self.filename = 'detail_'+str(sess_num)+'.csv'
         if not os.path.exists(self.prefix+self.filename):
             ch_mkdir(self.prefix)
-            df_person = pd.DataFrame(columns=['email','result','refnum'])
+            df_person = pd.DataFrame(columns=['email','result','refnum'], dtype = np.str)
             df_person.to_csv(self.prefix+self.filename,index=0) 
         self.df_person = pd.read_csv(self.prefix+self.filename)  
         
@@ -38,7 +38,7 @@ class Examiner(object):
             res = exam_core(self.sess_num,i,anws[i])
             results.append(res)
             
-        sress = ''.join(['0' if i else '1' for i in results])
+        sress = ''.join(['1' if i else '0' for i in results])
         self.df_person.loc[self.n_per+1] = [msgfrom,sress,self.ref_num0+self.n_per+1]
         self.n_per = self.n_per+1
         
@@ -64,7 +64,8 @@ def exam_core(serie_num,i_question,answer):
         elif i_question==4:
             return show(answer)
 
-    assert 0,'Something went wrong in core!'
+#    assert 0,'Something went wrong in core!'
+    print('Extra feild!')
 
 
 

@@ -10,13 +10,14 @@ Important for attendees:
 
   2. **Exercises** need to be emailed to <datascienceworkshops98@gmail.com>
     You can find the exercises for each **session**[^1] in this repository. The exercises will be checked automatically so you need to follow following instructions (see the [template](./S01/answers_template)):<br/><br/>
-        A. Put your answers (only answers, either an explanation or a piece of code) in a [document](https://linoxide.com/linux-how-to/learn-how-create-file-linux-terminal/).<br/><br/>
+        A. Put your answers (only answers, either an explanation or a piece of code) whith in the email text message.<br/>
+            (No need to attache it.)<br/><br/>
         B. The answers should be separated by 10 [hash sign](https://en.wikipedia.org/wiki/Number_sign) (##########). 
-            You don't need to put it at the beginning and the end of the document.<br/><br/>
+            Please don't put the hashes neither of the beginning nor the end of the text.<br/><br/>
         C. Put your name in Persian at the end of the document.<br/><br/>
         D. Email subject should be like EX-S{SessionNumber}-{YourFirstNameInEnglish}-{YourLastNameInEnglish} <br/>
-           where {SessionNumber} could be 01,02,03,...30 regarding to the session number. (please notice it, only three hyphen!)<br/>
-           example: EX-S02-AliReza-VafaeiSadr<br/><br/>
+            where {SessionNumber} could be 01,02,03,...30 regarding to the session number. (please notice it, only three hyphen!)<br/>
+            example: EX-S02-AliReza-VafaeiSadr<br/><br/>
         E. Please send the email within a new composition (not reply to an email or etc).<br/><br/>
         F. There is **no deadline**. The submission time will be considered in the next sessions.
            

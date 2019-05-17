@@ -1,7 +1,9 @@
-1. Write a script which returns factorial fucntion of a number.
+1. Write a function which returns factorial function of a number while its input is the number.
 
-2. Write a script which checks if a number is prime.
+2. Write a function which checks if a number is prime. The function takes a number from user
 
-3. Write a script which returns all words started with a spesific letter (for example a) and ended with another spesific letter from a given text file.
+3. Write a function which returns all words started with a specific letter (for example a) and ended with another specific letter from a given text file. The input will be the file name. The function should take the file name and make a list of the words.
 
-4. Write a script which finds and replaces "word 1" with "word 2" in a text file.
+4. Write a function which finds and replaces "word 1" with "word 2" in a text file. The input will be the file name and the output should be the new (world replaced) string.
+
+**THE INPUT NEEDS TO BE PASSED BY sys.argv FUNCTION IN ALL QUESTIONS.**
