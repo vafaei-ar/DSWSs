@@ -10,7 +10,7 @@ the file name and make a list of the words.
 4. Write a function which finds and replaces "word 1" with "word 2" in a text file. The input will be the
  file name and the output should be the new (world replaced) string.
 
-**THE INPUT NEEDS TO BE PASSED BY sys.argv FUNCTION IN ALL QUESTIONS.**
+**THE INPUT(s) NEEDS TO BE PASSED BY sys.argv FUNCTION IN ALL QUESTIONS.**
 
 
 Some more exercises:
