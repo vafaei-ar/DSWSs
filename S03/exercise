@@ -14,7 +14,7 @@ input:
 output:
     number of occurrence (int)
 
-3. For a given list of countries, what is the average U5MR (under 5 morality rate) ratio between two gender. (girls/boys) 
+3. For a given list of countries, what is the average U5MR (under 5 morality rate) ratio between two genders in last year. (girls/boys) 
 datset: su5m.csv
 
 input:
@@ -22,13 +22,13 @@ input:
 output:
     average of girls U5MR divided by boys U5MR (float)
 
-4. For a given GDP threshold (upper limit), how much is the average ratio of under 18 migrants (in percent)?
+4. For a given GDP threshold (upper limit), how much is the average percentage of under 18 migrants among all countries?
 datasets: migrants.csv and 2014_world_gdp_with_codes.csv
 
 input:
     GDP threshold (float)    
 output:
-    average ratio of under 18 migrants in percent (float)
+    average percentage of under 18 migrants in percent (float)
     
 
 
