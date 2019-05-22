@@ -30,6 +30,7 @@ input:
     GDP threshold (float)    
 
 output:
-    average ratio of under 18 migrants in percent
+    average ratio of under 18 migrants in percent (float)
+    
 
 

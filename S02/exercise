@@ -1,19 +1,43 @@
 1. Write a function which returns factorial function of a number while its input is the number.
 
+input:
+    x (int)
+output:
+    x! (int)    
+
 2. Write a function which checks if a number is prime. The function takes a number from user, true means 
 prime while false means otherwise. 
+
+input:
+    a number (int)
+output:
+    True if it is prime, False otherwise (bool)
 
 3. Write a function which returns all words started with a specific letter (for example a) and ended with 
 another specific letter from a given text file. The input will be the file name. The function should take 
 the file name and make a list of the words.
 
+input:
+    file name (string)
+    first letter (string)
+    second letter (string)
+output:
+    list of the words (list)
+
 4. Write a function which finds and replaces "word 1" with "word 2" in a text file. The input will be the
- file name and the output should be the new (world replaced) string.
+ file name and the output should be the new (word replaced) string.
+
+input:
+    file name (string)
+    first word (string)
+    second word (string)
+output:
+    the word replaced text (string)
 
 **THE INPUT(s) NEEDS TO BE PASSED BY sys.argv FUNCTION IN ALL QUESTIONS.**
 
 
-Some more exercises:
+Some more exercises just for fun (DO NOT INCLUDE THEM IN YOUR SENT ANSWERS!):
 
 - Write a function which returns Fibonacci Sequence.
 - Hangman, write a function that chooses a word from a list and lets the user guess it.
