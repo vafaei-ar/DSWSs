@@ -1,15 +1,35 @@
-1. For a given value, how many times Tesla stock price gets more than the value. 
+1. For a given value p0, how many times Tesla stock price gets more than p0. 
 dataset: tesla-stock-price.csv
 
-2. How many earthquakes occurred in a give country?
-dataset: 
+input: 
+    p0 (float)
+output: 
+    number of occurrence (int)
 
-3. For a given list of countries, what is the U5MR (under 5 morality rate) ratio between two gender. (girls/boys) 
+2. How many significant earthquakes occurred in a give country?
+dataset: significant-earthquakes.csv
+
+input: 
+    country name (string)
+output:
+    number of occurrence (int)
+
+
+3. For a given list of countries, what is the average U5MR (under 5 morality rate) ratio between two gender. (girls/boys) 
 datset: su5m.csv
 
-4. For a given GDP, how much of the migrants are under 18 (average percent)?
+input:
+    list of countries (list)
+output:
+    average of girls U5MR divided by boys U5MR (float)
+
+4. For a given GDP threshold (upper limit), how much is the average ratio of under 18 migrants (in percent)?
 datasets: migrants.csv and 2014_world_gdp_with_codes.csv
 
+input:
+    GDP threshold (float)    
 
+output:
+    average ratio of under 18 migrants in percent
 
 
