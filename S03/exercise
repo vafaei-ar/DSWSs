@@ -1,4 +1,4 @@
-1. For a given value p0, how many times Tesla stock price gets more than p0. 
+1. For a given value p0, how many times Tesla stock price (min and max average) gets more than p0. 
 dataset: tesla-stock-price.csv
 
 input: 
