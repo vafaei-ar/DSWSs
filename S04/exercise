@@ -1,17 +1,18 @@
-1.  Bob and Alice are on a game. There are three doors. 
+1.  Bob and Alice are playing a game. There are three doors. 
 Two of them open to a sheep and one of the doors leads to a brand new car!
 Here is the rule, once Alice/Bob picks a door, one of the unpicked doors reveals a sheep. 
-Then, Alice/Bob have the option of either staying with the selected door or switching to the last unopened door. 
+Then, Alice/Bob have the option of either staying with the selected door or switching to the remaining unopened door. 
 Bob always stays (of course he's a man!) and Alice always switches!
-Which one has more chance to win? 
+Who has more chance to win? 
 
 input:
     
 output:
     Bob's chance (float)
     Alice's chance (float)
-
-2. For the data frame produced by SS02-02.ipynb, write a code that compute correlation coefficient for any two given columns.
+	
+2. For the data frame produced by SS02-02.ipynb, write a
+code that computes correlation coefficient for any two given columns.
 Then make a matrix that includes the coefficients. 
 Note that each element presents correlation coefficient of two columns, so the matrix is symmetric.
 
@@ -19,9 +20,9 @@ input:
     relative path to UN_cleaned.csv (string)
 output:
     correlation matrix
-
-3. write a code to fit a sinusoidal function like f(x)=a*sin(b*x) for a given data. 
-
+	
+3. write a code to fit a sinusoidal function like f(x)=a*sin(b*x) to a given data. 
+	
 input: 
     The data file name (string)
         (like the example in datasets directory, exercise.npy) 
@@ -30,17 +31,16 @@ output:
     b (float)
     
 Some more exercises just for fun (DO NOT INCLUDE THEM IN YOUR SENT ANSWERS!):  
+	
+- Imagine 366 people in some place. There should be two people who have the same birthday dates.
+since there are only 365 possible days in a year (the probability of this event is one). 
+How many people is needed to have 99% chance of this event?
 
-- Once 366 people are somewhere, There should be two people have the same birthday, since there are only 365 possible days in a year (the probability of this event is one). 
-How many people is needed to have 99% chance of the event?
-
-- One hundred people line up to board an airplane. Each has a boarding pass with assigned seat.
+- One hundred people line up to board an airplane. Each has a boarding pass including the assigned seat.
 However, the first person to board has lost his boarding pass and takes a random seat.
 After that, each person takes the assigned seat if it is unoccupied, and one of unoccupied seats at random otherwise.
 What is the probability that the last person to board gets to sit in his assigned seat?
 
 - Two real numbers X and Y are chosen at random in the interval (0,1).
 Compute the probability that the closest integer to X/Y is even.
-
-
 
