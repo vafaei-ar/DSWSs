@@ -1,21 +1,22 @@
-1. 
+For questions 1 and 2, two datasets are provided. In these datasets seven variables are reported for all countries.
 
-input: 
-output: 
+1. Between 2005 and 2017, with variables had a significant difference (p-value<5%) among all countries.
 
-2. 
+dataset: countries2.csv (load from current directory)
 
-input: 
-output:
+input: None
+output: name of variable
 
-3. 
+2. For each variable, find the country which has the least p-value regarding the distribution of that variable among all countries.
 
-input:
-output:
+dataset: countries2.csv (load from current directory)
 
-4. 
+input: None
+output: pair of name of country and variable name
 
-input:
-output:
+3. For this question a dataset is given which lists different variables for 400 people. Consider "Gender", "Student" and "Married" columns. Find if change of gender, studentship and marital status makes a significant difference on other variables (except ethnicity).
 
+dataset: credit.csv (load from current directory)
 
+input: None
+output: Output: pair of variables 
