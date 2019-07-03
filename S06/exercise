@@ -1,0 +1,20 @@
+For questions 1 and 2, two datasets are provided. In these datasets seven variables are reported for all countries.
+
+1. For the given dataset find best fit of data in the form Ax+Bx^2 using X-square fitting. Find Fischer information for A and B. (you may need to check your results using numpy.poyfit function)
+
+dataset: data.npy (load from current directory)
+
+input: None
+Output: Best A, B, Fischer matrix
+
+2. Record a voice of your choice and use a low-pass filter to reduce noise on the voice. (arecord is the command you can use for record.)
+
+input: None
+output: None
+
+3. Record a video using your webcam and detect faces in that video.
+
+input: None
+output: None
+
+
