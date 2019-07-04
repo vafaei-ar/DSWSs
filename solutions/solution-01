@@ -1,0 +1,22 @@
+find . -maxdepth 1 -type f -name "a*" | wc -l
+
+##########
+
+find /home -maxdepth 2 -name "Desktop" | wc -l
+
+##########
+
+for i in {1..100}
+do
+	touch file$i
+done
+
+##########
+
+mkdir newdir
+cp file{1..9} newdir
+
+##########
+
+ls -t | head -1
+
