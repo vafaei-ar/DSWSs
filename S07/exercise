@@ -1,0 +1,3 @@
+1. You were provided with a dataset containing data of different variables for all countries. The problem is several data points in this dataset are missing. You must fill all the NaN data points without deleting any of them and produce a full dataset without any NaN’s. 
+
+Use appropriate method for any variable. For example, For continuum variables, you can use regression method. If the variable contains different classes, use a classifier. Train on 70% of data and test on the rest of data.
